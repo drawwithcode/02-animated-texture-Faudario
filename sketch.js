@@ -1,6 +1,6 @@
 const diameter = 25;
 let colore = 0;
-let testo = 'Slide right to make colors brighter \n \n Slide down to speed animation\n \n Press S for spring, F for fall and W for winter \n \n Press any key to get back to the whole spectrum';
+let testo = 'Slide right to make the colors brighter \n \n Slide down to speed the animation\n \n Press S for spring, F for fall and W for winter \n \n Press any key to get back to the whole spectrum';
 
 
 function setup() {
